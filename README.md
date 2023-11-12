@@ -18,3 +18,8 @@ Technologies Used
     Database: MongoDB is used to store user information, election details, and voting data.
 
     Frontend: Designed using HTML and CSS for a clean and intuitive user interface.
+    
+Run Application
+
+    go run main.go
+    
